@@ -1,2 +1,2 @@
 # ossicini-
-Css framework Minimalista 
+Css framework Minimalista e semantico, senza l'utilizzo di classi.
